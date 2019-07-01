@@ -4,7 +4,6 @@ import (
 	"bytes"
 	"log"
 	"strconv"
-	"strings"
 
 	tsv "github.com/valyala/tsvreader"
 )
